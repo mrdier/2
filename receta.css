@@ -1,0 +1,24 @@
+#title{
+	color:#ff0066;
+	padding:30px;
+}
+#ingredientes {
+	background-color:#ccccff;
+	font-size:15px;
+	padding:1px;
+}
+#procedimiento{
+	background-color:#cccccf;
+	font-size:15px;
+	padding:9px;
+	
+}
+#link{
+	color:blue;
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+
+}
+#img{
+	padding-left:55px;
+}
